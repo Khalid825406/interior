@@ -961,6 +961,9 @@ hr {
     font-size: 28px;
     margin: 0 0 12px;
   }
+  .height-100vh {
+    height: 60vh;
+}
 }
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   .hero-content-1 .title {
@@ -975,7 +978,7 @@ hr {
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .hero-content-1 p {
-    font-size: 17px;
+    font-size: 11px;
   }
 }
 @media only screen and (max-width: 767px) {
