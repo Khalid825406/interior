@@ -109,7 +109,7 @@ button, input[type=submit] {
 }
 
 img {
-  max-width: 100%;
+  max-width: 60%;
 }
 
 input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
